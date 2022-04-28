@@ -81,22 +81,22 @@
 	width: 100%;
 }
 .secondary_header ul li {
-	list-style: none;
-	float: left;
-	margin-right: auto;
-	margin-top: 0px;
-	font-family: "Source Sans Pro";
-	font-weight: normal;
-	color: #FFFFFF;
-	letter-spacing: 1px;
-	margin-left: auto;
-	text-align: center;
-	width: 16%;
-	transition: all 0.3s linear;
+    list-style: none;
+    float: left;
+    margin-right: auto;
+    margin-top: 0px;
+    font-family: "Source Sans Pro";
+    font-weight: normal;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    margin-left: auto;
+    text-align: center;
+    width: 19%;
+    transition: all 0.3s linear;
 }
 .secondary_header ul li:hover {
-	color: #717070;
-	cursor: pointer;
+    color: #717070;
+    cursor: pointer;
 }
 .left_article {
 	background-color: #FFFFFF;
@@ -456,4 +456,8 @@ body {
 	opacity: 0.5;
 }
 #menu {
+}
+.tab {
+    padding: 1px;
+    background-color: 01B2D1;
 }
